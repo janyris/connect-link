@@ -3,7 +3,7 @@
 <img src="img/logo.png" alt="Logo" width="80" height="80">
 </a>
 
-<h3>Connect (linktree alternative)</h3>
+<h3>Connect-Link (linktree alternative)</h3>
 <p>
 	All your links on one page.
 		<br>

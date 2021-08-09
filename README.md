@@ -20,6 +20,6 @@
 
 -   HTML
 -   CSS
--   Javascript
+-   JavaScript
 
 Project Link: <https://github.com/janyris/connect-link>

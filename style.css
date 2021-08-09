@@ -212,8 +212,12 @@ a:hover {
   opacity: 50%;
 }
 
-.fa-github-alt {
+.fa-github-alt  {
   color: rgb(187, 187, 187);
+}
+
+.fa-heart{
+color: rgb(238, 102, 124);
 }
 
 footer {
